@@ -1,8 +1,8 @@
 # HandleAPIS
 
-Baisc Website for Handling APIS in Angular.
-Try it @ http://jaypatel1210.github.io/ng_handle_APIS
-Used Angular Service to hanle APIS.
+Baisc Website for Handling APIS in Angular.  
+Try it @ https://jaypatel1210.github.io/ng_handle_APIS  
+Used Angular Service to hanle APIS.  
 
 ## Development server
 
